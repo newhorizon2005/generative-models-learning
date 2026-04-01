@@ -4,5 +4,5 @@
 ## 📓 学习笔记
 
 ### DDPM
-![](notes/1.jpg)
-![](notes/2.jpg)
+![](notes/1.JPG)
+![](notes/2.JPG)
